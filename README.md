@@ -28,7 +28,10 @@
 <!-- About me -->
  <div id="header" align="left">
 
-### 👨🏽‍💻 About me:
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />   About me:  
+
+
 * 🚀 I'm passionate about technology, constantly exploring new tools and frameworks to stay ahead of the curve.
 
 * 🐛 I'm skilled at identifying and resolving bugs, ensuring high-quality software. My meticulous approach to testing helps prevent bugs and deliver a smooth user experience. 
@@ -47,6 +50,13 @@
 <!-- Skills como logos -->
 [![My Skills](https://skillicons.dev/icons?i=selenium,python,postman,postgres,androidstudio,figma,git,github,latex,matlab,notion,pycharm)](https://skillicons.dev)
 
+<!-- Skills como íconos -->
+<div >
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/></code>
+</div>
+
+
 <!-- Skills como badges -->
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -62,7 +72,12 @@
 ## Statistics
 <!-- Se puede modificar el tema -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardoalonson&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricardoalonson&theme=zenburn) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ricardoalonson&theme=zenburn)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ricardoalonson&theme=bear&hide_border=true&mode=weekly&card_width=341&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
+<div style="display: flex; flex-direction: row;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricardoalonson&theme=zenburn" width="400" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ricardoalonson&theme=zenburn" width="400" />
+</div>
+
+
+
 
